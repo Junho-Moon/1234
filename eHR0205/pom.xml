@@ -16,7 +16,7 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <maven.compiler.source>1.8</maven.compiler.source>
     <maven.compiler.target>1.8</maven.compiler.target>
-    <juint.version>4.12</juint.version>
+    <juint.version>4.13.1</juint.version>
     <log4j.version>1.2.17</log4j.version>
     <downloadSources>true</downloadSources>
     <downloadJavadocs>true</downloadJavadocs>
